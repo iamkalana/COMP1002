@@ -1,0 +1,10 @@
+A>B|D:3|S:1,2|B:stairs
+A<B|D:7|S:1,2|B:stairs
+B>C|D:10|S:1,2|B:stairs
+B<C|D:10|S:1,2|B:stairs
+C>D|D:1|S:1,2|B:stairs
+C<D|D:1|S:1,2|B:stairs
+D>E|D:3|S:1|B:stairs
+D<E|D:3|S:1|B:stairs
+D>E|D:10|S:2|B:
+D<E|D:10|S:2|B:
